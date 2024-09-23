@@ -21,3 +21,5 @@ Provide insights such as for how much time was a cab idle in a given duration ?
 Keep a record of the cab history of each cab. (A cab history could just be a record of what all states a cab has gone through)
 Find cities where the demand for cabs is high and the time when the demand is highest.
 
+YouTube explanation and testing:
+https://www.youtube.com/playlist?list=PL1MGIY5grCTZv8y4J9677pdo0m3DXW2q8
